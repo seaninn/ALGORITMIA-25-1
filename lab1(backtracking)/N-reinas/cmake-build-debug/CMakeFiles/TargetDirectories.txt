@@ -1,0 +1,3 @@
+C:/Users/seinc/OneDrive/Escritorio/2025-2/AA-25-1/LAB1/N-reinas/cmake-build-debug/CMakeFiles/N_reinas.dir
+C:/Users/seinc/OneDrive/Escritorio/2025-2/AA-25-1/LAB1/N-reinas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/seinc/OneDrive/Escritorio/2025-2/AA-25-1/LAB1/N-reinas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
