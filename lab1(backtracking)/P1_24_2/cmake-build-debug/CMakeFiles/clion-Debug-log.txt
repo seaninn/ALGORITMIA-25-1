@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\seinc\OneDrive\Escritorio\25-2\ALGORITMIA-25-1\lab1(backtracking)\P1_24_2 Select CMakeLists.txt
