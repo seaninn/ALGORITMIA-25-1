@@ -1,6 +1,6 @@
 #include <iomanip>
 #include <iostream>
-#define M 7
+#define M 8
 using namespace std;
 int tablero[M][M]{};
 int movimientos[8][2]={{2,1},{2,-1},{-2,-1},{-2,1},{1,2},{1,-2},{-1,-2},{-1,2}};
@@ -34,6 +34,7 @@ void recorridoCaballo(int x,int y,int num) {
     if (num==M*M) {
         imprimirTablero();
         solucion=true;
+        exit(1);
         return;
     }
     for (int i=0;i<8;i++) {
